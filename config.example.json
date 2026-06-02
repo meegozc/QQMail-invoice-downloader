@@ -1,0 +1,17 @@
+{
+    "qq_email": "你的QQ邮箱@qq.com",
+    "qq_password": "你的授权码（非QQ密码）",
+    "invoice_storage_dir": "../invoicefiles",
+    "date_range": {
+        "auto": true,
+        "default_days": 30
+    },
+    "browser": {
+        "headless": true,
+        "timeout": 30
+    },
+    "logging": {
+        "level": "INFO",
+        "save_to_file": true
+    }
+}
